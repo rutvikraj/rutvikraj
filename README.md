@@ -34,12 +34,5 @@
 ---
 </br>
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pranjalg13&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pranjalg13&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-
-</div>
-
 [linkedin]: https://www.linkedin.com/in/rutvikraj-vala-797737173/
 [instagram]: https://www.instagram.com/_rutvikraj/

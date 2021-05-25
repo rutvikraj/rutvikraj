@@ -1,4 +1,4 @@
-<img src="https://github.com/rutvikraj/rutvikraj/blob/main/profile_card.png" height="300" width="1075" style="vertical-align:top; margin:4px">
+<img src="https://github.com/rutvikraj/rutvikraj/blob/main/profile_card_2.png" height="300" width="1075" style="vertical-align:top; margin:4px">
 
 
 

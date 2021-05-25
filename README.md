@@ -1,4 +1,4 @@
-![Social Banner for Rutvikraj Vala (https://github.com/rutvikraj/rutvikraj/blob/main/profile_card.svg)
+<img src="https://github.com/rutvikraj/rutvikraj/blob/main/profile_card.svg" height="350" width="1075" style="vertical-align:top; margin:4px">
 
 
 

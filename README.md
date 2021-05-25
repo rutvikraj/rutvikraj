@@ -1,3 +1,7 @@
+<img src="https://drive.google.com/file/d/1E588QUFur2K-ls9NVTH36j2GAchLHMtk/view" style="vertical-align:top; margin:4px">
+
+
+
 ## Hi there, I'm Rutvikraj Vala <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 

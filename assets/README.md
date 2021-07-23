@@ -13,8 +13,8 @@
 <p align="center">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="Python" width="35" height="35">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/java.svg" alt="Java" width="35" height="35">
+<img src="hhttps://github.com/rutvikraj/rutvikraj/blob/main/assets/pngegg.png" alt="C++" width="35" height="35">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg" alt="Javascript" width="35" height="35">
-<img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" alt="C++" width="35" height="35">
 <img src="https://user-images.githubusercontent.com/11978772/40430854-46e62868-5e63-11e8-9fac-920ee4ef5237.png" alt="MySQL" width="35" height="35">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/vscode.svg" alt="VSCode" width="35" height="35">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/git.svg" alt="Git" width="35" height="35">

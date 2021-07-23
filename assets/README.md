@@ -9,4 +9,4 @@
 </p>
 
 
-<align="right"> https://github.com/rutvikraj/rutvikraj/blob/main/assets/hand.png
+<img align="right" src="https://github.com/rutvikraj/rutvikraj/blob/main/assets/hand.png" height="140" title="Peace" />

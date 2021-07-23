@@ -11,16 +11,16 @@
 ## 🧰 Tech Stack:
 
 <p align="center">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="Python" width="25" height="25">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/java.svg" alt="Java" width="25" height="25">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg" alt="Javascript" width="25" height="25">
-  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" alt="C++" height="30" width="25" height="25">
-<img src="https://user-images.githubusercontent.com/11978772/40430854-46e62868-5e63-11e8-9fac-920ee4ef5237.png" alt="MySQL" width="25" height="25">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/vscode.svg" alt="VSCode" width="25" height="25">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/git.svg" alt="Git" width="25" height="25">
-<img src="https://seeklogo.com/images/K/kali-linux-logo-0EB0B3A81B-seeklogo.com.png" alt="Linux" width="25" height="25">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="25" height="25">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="25" height="25">
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="Python" width="35" height="35">
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/java.svg" alt="Java" width="35" height="35">
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg" alt="Javascript" width="35" height="35">
+  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" alt="C++" height="30" width="35" height="35">
+<img src="https://user-images.githubusercontent.com/11978772/40430854-46e62868-5e63-11e8-9fac-920ee4ef5237.png" alt="MySQL" width="35" height="35">
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/vscode.svg" alt="VSCode" width="35" height="35">
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/git.svg" alt="Git" width="35" height="35">
+<img src="https://seeklogo.com/images/K/kali-linux-logo-0EB0B3A81B-seeklogo.com.png" alt="Linux" width="35" height="35">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="35" height="35">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="35" height="35">
 
 </p>
 <h3 🤝 Connect With Me:

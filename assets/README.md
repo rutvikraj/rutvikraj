@@ -9,4 +9,4 @@
 </p>
 
 
-<p align="right"> https://github.com/rutvikraj/rutvikraj/blob/main/assets/hand.png </p>
+<align="right"> https://github.com/rutvikraj/rutvikraj/blob/main/assets/hand.png

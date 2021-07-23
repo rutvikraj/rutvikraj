@@ -11,7 +11,7 @@
 ## 🧰 Tech Stack:
 
 <p align="center">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="Python" height="30" width="26" style="vertical-align:top; margin:4px">
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="Python" width="25" height="25">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/java.svg" alt="Java" height="30" width="26" style="vertical-align:top; margin:4px">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg" alt="Javascript" height="30" width="26" style="vertical-align:top; margin:4px">
   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" alt="C++" height="30" width="26" style="vertical-align:top; margin:4px">

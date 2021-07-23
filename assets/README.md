@@ -1,3 +1,6 @@
+[![Social banner for RutvikrajVala](https://github.com/RankJay/RankJay/raw/master/Github_Public_Profile.svg)]
+
+
 <h3 align="center"> Connect With Me 🤝</h3>
 
 <p align='center'>

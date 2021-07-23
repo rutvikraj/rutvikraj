@@ -23,12 +23,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" height="30" width="26" style="vertical-align:top; margin:4px">
 
 </p>
-## 🤝 Connect With Me:
+<h3 🤝 Connect With Me:
 
 <p align='center'>
-<a href="mailto:rutvikrajvala@hotmail.com"><img height="30" src="https://github.com/rutvikraj/rutvikraj/blob/main/assets/icon_email.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rutvikraj-vala-797737173"><img height="30" src="https://github.com/rutvikraj/rutvikraj/blob/main/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_rutvikraj/"><img height="30" src="https://github.com/rutvikraj/rutvikraj/blob/main/assets/icon_instagram.png"></a>&nbsp;&nbsp;
+<a href="mailto:rutvikrajvala@hotmail.com"><img height="30" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/email.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rutvikraj-vala-797737173"><img height="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/_rutvikraj/"><img height="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"></a>&nbsp;&nbsp;
 </p>
 
 

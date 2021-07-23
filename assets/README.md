@@ -1,4 +1,4 @@
-[![Social banner for RutvikrajVala](https://github.com/RankJay/RankJay/raw/master/Github_Public_Profile.svg)]
+[![Social banner for RutvikrajVala](https://github.com/rutvikraj/rutvikraj/blob/main/assets/profile_card.svg)]
 
 
 <h3 align="center"> Connect With Me 🤝</h3>

@@ -1,13 +1,13 @@
 ![Social banner for RutvikrajVala](https://github.com/rutvikraj/rutvikraj/blob/main/assets/card.png)
 
 ## 🎓 I'm a Software Developer | CyberSecurity Enthusiast !!
-
+ <img align="right" src="https://github.com/rutvikraj/rutvikraj/blob/main/assets/full.gif" height="140" title="Peace" />
 - 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
 - 📚 Python And Java are my first love.
 - 🌱 I’m currently learning everything #evolving🤣
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: Gamer, Cricket Lover & Editing.
- <img align="right" src="https://github.com/rutvikraj/rutvikraj/blob/main/assets/full.gif" height="140" title="Peace" />
+- 
 ## 🧰 Tech Stack:
 
 <p align="center">

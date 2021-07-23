@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning everything #evolving🤣
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: Gamer, Cricket Lover & Editing.
-- 
+
+
 ## 🧰 Tech Stack:
 
 <p align="center">
@@ -30,7 +31,7 @@
 <a href="mailto:rutvikrajvala@hotmail.com"><img height="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail_old.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rutvikraj-vala-797737173"><img height="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_rutvikraj/"><img height="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"></a>&nbsp;&nbsp;
-  <img align="right" src="https://github.com/rutvikraj/rutvikraj/blob/main/assets/full.gif" height="140" title="Peace" />
+  <img align="right" src="https://github.com/rutvikraj/rutvikraj/blob/main/assets/hand.png" height="140" title="Peace" />
 </p>
 
 

@@ -12,7 +12,7 @@
 
 ## 🧰 Tech Stack:
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="Python" width="35" height="35">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/java.svg" alt="Java" width="35" height="35">
 <img src="https://github.com/rutvikraj/rutvikraj/blob/main/assets/pngegg.png" alt="C++" width="35" height="35">
@@ -28,7 +28,7 @@
 
 ## 🤝Connect With Me:
 
-<p align='center' style="vertical-align:top; margin:4px">
+<p align='left' style="vertical-align:top; margin:4px">
 <a href="mailto:rutvikrajvala@hotmail.com"><img height="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail_old.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rutvikraj-vala-797737173"><img height="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_rutvikraj/"><img height="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"></a>&nbsp;&nbsp;

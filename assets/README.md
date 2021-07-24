@@ -1,4 +1,3 @@
-![Social banner for RutvikrajVala](https://github.com/rutvikraj/rutvikraj/blob/main/assets/card.png)
 ![Social banner for RutvikrajVala](https://github.com/rutvikraj/rutvikraj/blob/main/assets/profile_card.png)
 
 

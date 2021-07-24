@@ -1,5 +1,4 @@
 ![Social banner for RutvikrajVala](https://github.com/rutvikraj/rutvikraj/blob/main/assets/card.png)
-![Social banner for RutvikrajVala](https://github.com/rutvikraj/rutvikraj/blob/main/assets/cardhan.png)
 
 ## 🎓 I'm a Software Developer | CyberSecurity Enthusiast !!
 
@@ -26,7 +25,7 @@
 
 </p>
 
-#
+## Connect With Me:
 
 <p align='center' style="vertical-align:top; margin:4px">
 <a href="mailto:rutvikrajvala@hotmail.com"><img height="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail_old.svg"></a>&nbsp;&nbsp;

@@ -1,5 +1,6 @@
 ![Social banner for RutvikrajVala](https://github.com/rutvikraj/rutvikraj/blob/main/assets/card.png)
 
+
 ## 🎓 I'm a Software Developer | CyberSecurity Enthusiast !!
 
 - 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
@@ -7,7 +8,7 @@
 - 🌱 I’m currently learning everything #evolving🤣
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: Gamer, Cricket Lover & Editing.
-##
+
 
 ## 🧰 Tech Stack:
 

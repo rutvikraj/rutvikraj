@@ -24,8 +24,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="35" height="35">
 </p>
 
-
-## Connect With Me:
+##
+## 🤝Connect With Me:
 
 <p align='center' style="vertical-align:top; margin:4px">
 <a href="mailto:rutvikrajvala@hotmail.com"><img height="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail_old.svg"></a>&nbsp;&nbsp;

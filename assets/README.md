@@ -1,5 +1,5 @@
 ![Social banner for RutvikrajVala](https://github.com/rutvikraj/rutvikraj/blob/main/assets/card.png)
-
+#
 ## 🎓 I'm a Software Developer | CyberSecurity Enthusiast !!
 
 - 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: Gamer, Cricket Lover & Editing.
 
-
+#
 ## 🧰 Tech Stack:
 
 <p align="center">
@@ -24,7 +24,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="35" height="35">
 
 </p>
-
+#
 ## Connect With Me:
 
 <p align='center' style="vertical-align:top; margin:4px">

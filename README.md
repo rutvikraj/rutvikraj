@@ -7,7 +7,7 @@
 - 📚 Python And Java are my first love.
 - 🌱 I’m currently learning everything #evolving🤣
 - 👯 I’m looking to collaborate with other content creators.
-- ⚡ Fun fact: Gamer, Cricket Lover & Editing.
+- ⚡ Fun fact: Gamer, Cricket Lover.
 
 
 ## 🧰 Tech Stack:

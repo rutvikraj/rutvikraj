@@ -3,11 +3,9 @@
 
 ## 🎓 I'm a Software Developer | CyberSecurity Enthusiast !!
 
-- 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
-- 📚 Python And Java are my first love.
+- 📚 Python And Java ❤️.
 - 🌱 I’m currently learning everything #evolving🤣
-- 👯 I’m looking to collaborate with other content creators.
-- ⚡ Fun fact: Gamer, Cricket Lover.
+- 👯 I’m looking to collaborate with others.
 
 
 ## 🧰 Tech Stack:

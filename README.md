@@ -4,7 +4,7 @@
 ## 🎓 I'm a Software Developer | CyberSecurity Enthusiast !!
 
 - 📚 Python And Java ❤️.
-- 🌱 I’m currently learning everything #evolving:atom:
+- 🌱 I’m currently learning everything #evolving⚛️
 - 👯 I’m looking to collaborate with others.
 
 
